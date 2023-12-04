@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:57836F2B
+NODE:I LEVEL:0 LINE:8 "C:\cvavr\inc\mega32a.h"
+NODE:I LEVEL:0 LINE:9 "C:\cvavr\inc\delay.h"
+NODE:M LEVEL:0 LINE:11 "Digit"
+NODE:V LEVEL:0 LINE:13 "disp -> RAM:????"
+NODE:M LEVEL:0 LINE:15 "digitShowTime"
+NODE:M LEVEL:0 LINE:16 "countOfDigits"
+NODE:M LEVEL:0 LINE:17 "Sec"
+NODE:F LEVEL:0 LINE:19 "display(unsigned int input)"
+NODE:M LEVEL:0 LINE:49 "afzayesh"
+NODE:M LEVEL:0 LINE:50 "kahesh"
+NODE:F LEVEL:0 LINE:51 "main(void)"
